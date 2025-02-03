@@ -1,6 +1,5 @@
-package com.openaeolus.hub.controllers;
+package com.openaeolus.hub.controllers.v1;
 
-import com.openaeolus.hub.models.WeatherReading;
 import com.openaeolus.hub.models.dtos.WeatherReadingDTO;
 import com.openaeolus.hub.services.WeatherReadingService;
 import jakarta.validation.Valid;
